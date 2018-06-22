@@ -16,3 +16,5 @@ add_executable(Factory 工厂模式/Factory.cpp)
 ######################迭代器模式################################
 add_executable(Iterator 迭代器模式/Iterator.cpp)
 
+######################外观模式################################
+add_executable(Facade 外观模式Facade/Facade.cpp)
