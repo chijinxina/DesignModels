@@ -18,3 +18,6 @@ add_executable(Iterator 迭代器模式/Iterator.cpp)
 
 ######################外观模式################################
 add_executable(Facade 外观模式Facade/Facade.cpp)
+
+######################观察者模式################################
+add_executable(Observer 观察者模式/Observer.cpp)
