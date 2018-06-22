@@ -27,3 +27,6 @@ add_executable(Interpreter 解释器模式/Interpreter.cpp)
 
 ######################装饰器模式################################
 add_executable(Decorator 装饰器模式/Decorator.cpp)
+
+######################访问者模式################################
+add_executable(Visitor 访问者模式visitor/Visitor.cpp)
