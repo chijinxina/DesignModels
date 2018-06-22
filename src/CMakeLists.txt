@@ -9,6 +9,10 @@ target_link_libraries(Singleton_C++11 pthread)
 
 ###################抽象工厂模式################################
 add_executable(AbstractFactory 抽象工厂模式/AbstractFactory.cpp)
-target_link_libraries(AbstractFactory pthread)
 
 ######################工厂模式################################
+add_executable(Factory 工厂模式/Factory.cpp)
+
+######################迭代器模式################################
+add_executable(Iterator 迭代器模式/Iterator.cpp)
+
