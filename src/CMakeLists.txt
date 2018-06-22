@@ -21,3 +21,6 @@ add_executable(Facade 外观模式Facade/Facade.cpp)
 
 ######################观察者模式################################
 add_executable(Observer 观察者模式/Observer.cpp)
+
+######################解释器模式################################
+add_executable(Interpreter 解释器模式/Interpreter.cpp)
