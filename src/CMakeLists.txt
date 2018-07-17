@@ -34,3 +34,6 @@ add_executable(Visitor 访问者模式visitor/Visitor.cpp)
 #######################适配器模式###############################
 add_executable(ClassAdapter 适配器模式/ClassAdapter.cpp)
 add_executable(ObjectAdapter 适配器模式/ObjectAdapter.cpp)
+
+#######################代理模式##############################
+add_executable(Proxy 代理模式/proxy.cpp)
